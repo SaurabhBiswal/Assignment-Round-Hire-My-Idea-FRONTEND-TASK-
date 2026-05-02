@@ -4,7 +4,7 @@
 
 ##  Live Demo
 
-🔗 **[Deployed Link](#)** *(will be updated after deployment)*
+🔗 **[Live Demo → assignment-round-hire-my-idea-front.vercel.app](https://assignment-round-hire-my-idea-front.vercel.app)**
 
 ---
 
